@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: app1-nginx
-          image: husssain7733/taxi6:v1.3.3
+          image: husssain7733/taxi6:v2.3.3
           ports:
             - containerPort: 8080
 ---
