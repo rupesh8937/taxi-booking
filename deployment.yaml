@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: app1-nginx
-          image: hussain7733/taxiv1.0.6
+          image: husssain7733/taxi6:v1.3.3
           ports:
             - containerPort: 8080
 ---
